@@ -1,0 +1,2 @@
+./config_files/datasets/medium_graph.txt
+./config_files/workloads/medium_workload_dynamic.txt
