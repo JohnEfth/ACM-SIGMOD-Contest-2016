@@ -3,7 +3,7 @@ Optimize the time of update and shortest path search in big graphs.
 
 How to compile and run:
 
-In order to compile in the command line use the command "make" in order for the executable file to be created.
+In order to compile write in the command line "make" so that the executable file will be created.
 Then you can run the application with the command " ./project > out.txt " (it will write the results in the out.txt file)
 
 How to make configurations:
@@ -27,4 +27,3 @@ Search function is created using Bidirectional BFS algorithm.
 
 Lastly in order to make these procedures faster I use threads , these threads are managed by a thread scheduler that distrubutes the jobs to the threads.
 
- 
